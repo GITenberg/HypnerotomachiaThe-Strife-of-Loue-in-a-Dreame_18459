@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8042
     wikipedia: http://en.wikipedia.org/wiki/Francesco_Colonna
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18459#HypnerotomachiaThe-Strife-of-Loue-in-a-Dreame
 gutenberg_issued: '2006-05-27'
 gutenberg_type: Text
 identifiers:
