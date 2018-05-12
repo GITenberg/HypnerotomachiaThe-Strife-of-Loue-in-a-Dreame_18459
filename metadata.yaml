@@ -1,0 +1,42 @@
+_repo: HypnerotomachiaThe-Strife-of-Loue-in-a-Dreame_18459
+_version: 0.1.0
+alternative_title: 'Hypnerotomachia: The Strife of Love in a Dreame'
+contributor:
+  translator:
+    agent_name: Dallington, Robert
+    aliases:
+    - Dalington, Robert
+    - Dallingtonus, Robertus
+    - Dallington, Robert, Sir
+    - Dallington, R. (Robert)
+    birthdate: 1561
+    deathdate: 1637
+    gutenberg_agent_id: '8043'
+    url: http://www.gutenberg.org/2009/agents/8043
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Colonna, Francesco
+    alias: Columna, Franciscus
+    deathdate: 1527
+    gutenberg_agent_id: '8042'
+    url: http://www.gutenberg.org/2009/agents/8042
+    wikipedia: http://en.wikipedia.org/wiki/Francesco_Colonna
+description: ''
+gutenberg_issued: '2006-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18459'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dreams -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Romances'
+- !lcsh 'Italian fiction -- 15th century -- Translations into English'
+title: 'Hypnerotomachia: The Strife of Loue in a Dreame'
+url: http://www.gutenberg.org/ebooks/18459
